@@ -11,7 +11,7 @@ keywords: [[https://srfi.schemers.org/?keywords=i/o][I/O]]
 
 This repository hosts [[https://srfi.schemers.org/srfi-277/][SRFI 277]]: Cyclic ports, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
-This SRFI is in /draft/ status.
+This SRFI is in /final/ status.
 See also [[/srfi-271/][SRFI 271: Random port libraries]].
 The full documentation for this SRFI can be found in the [[https://srfi.schemers.org/srfi-277/srfi-277.html][SRFI Document]].
 
